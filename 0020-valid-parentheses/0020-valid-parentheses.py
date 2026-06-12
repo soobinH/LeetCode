@@ -7,8 +7,8 @@ class Solution:
             if char in pairs:
                 if not stack or stack.pop() != pairs[char]:
                     return False
+
             else:
                 stack.append(char)
 
-        return not stack
-                
+        return not stack                
