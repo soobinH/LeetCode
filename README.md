@@ -6,6 +6,7 @@ practice Leet Code
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/soobinH/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/soobinH/LeetCode/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/soobinH/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -32,4 +33,8 @@ practice Leet Code
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/soobinH/LeetCode/tree/master/0739-daily-temperatures) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/soobinH/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
