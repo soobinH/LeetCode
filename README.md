@@ -30,6 +30,7 @@ practice Leet Code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soobinH/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/soobinH/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/soobinH/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -68,4 +69,8 @@ practice Leet Code
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/soobinH/LeetCode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/soobinH/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
